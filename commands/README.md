@@ -10,7 +10,7 @@ This Command gives us the information on the current status of a git repository 
 
 >git add:
 
-This Command is used to add the stage changes( local changes) to be commited.
+This Command is used to add the stage changes (local changes) to be commited.
 
 >git log:
 
@@ -18,7 +18,7 @@ This command give all the commit information happened to the specific repo.
 
 >git commit:
 
-This command is used to commit changes from a staging area(local changes) to master repo.
+This command is used to commit changes from a staging area (local changes) to master repo.
 
 
 
