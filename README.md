@@ -18,3 +18,10 @@ Git helps with:
 
 Git (Global Information Tracker), which was created by Linux Torvads on April 3rd 2005.
 
+Basics to Understand:
+
+Git vs Github:
+
+Git: Git is a version control software that runs locally on your machine.
+
+Github(Web Service): Github is a service that hosts git repositores in the cloud and makes it easier to collabrate with other people.
