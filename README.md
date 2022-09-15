@@ -16,4 +16,5 @@ Git helps with:
 6. Combine Changes.
 
 
-#Who created Git
+Git (Global Information Tracker), which was created by Linux Torvads on April 3rd 2005.
+
